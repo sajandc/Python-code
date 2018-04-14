@@ -1,0 +1,21 @@
+The standard US keyboard has a QWERTY keyboard-design which is the default keyboard layout for Latin alphabets.
+
+If you are living and working in a country which uses English as the primary communication and teaching language, you are most likely using a QWERTY keyboard in your desktop or laptop.
+
+The alphabet keys on this keyboard design are,
+
+First Row(f) - Q W E R T Y U I O P
+Second Row(s) - A S D F G H J K L
+Third Row(t) - Z X C V B N M
+
+It is possible to create words by picking one letter each from the 3 rows and combining in no particular order.
+
+Examples: RAN (fst), BAR (tsf), MAY(tsf), HEX(sft)
+
+(Letters in bracket indicate the row name).
+
+Problem: Implement a function in Python which generates all possible 3 letter words across the 3 rows which are actual dictionary words, without duplicates using a very efficient algorithm.
+
+Document your algorithm in a README.md and/or inside the code in comments. Assume a dictionary is available to you [In Linux and other Unix like systems, you can find this in /usr/share/dict/words ].
+
+The code should be submitted as a single Python module with module level documentation. Please don't send zip or other archive files!
